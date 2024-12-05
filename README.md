@@ -26,17 +26,17 @@
 
  **Languages**
  
- <img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Python" width="30px" src="/Assets/python.png"/>|<img alt="C++" width="30px" src="/Assets/c++.png"/>||<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>
+ <img alt="JavaScript" width="50px" src="/Assets/javascript.png"/>|<img alt="Python" width="50px" src="/Assets/python.png"/>|<img alt="C++" width="50px" src="/Assets/c++.png"/>|<img alt="HTML" width="50px" src="/Assets/html.png"/>|<img alt="CSS" width="50px" src="/Assets/css-3.png"/>
  |--|--|--|--|--|
  
  **Frameworks/Libraries**
  
- <img alt="nodejs" width="30px" src="/Assets/nodejs.png"/>|<img alt="nextjs" width="30px" src="/Assets/next.png"/>|<img alt="expressjs" width="30px" src="/Assets/Express.png"/>|<img alt="reactjs" width="30px" src="/Assets/reactjs.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>
+ <img alt="nodejs" width="50px" src="/Assets/nodejs.png"/>|<img alt="nextjs" width="50px" src="/Assets/next.png"/>|<img alt="expressjs" width="50px" src="/Assets/Express.png"/>|<img alt="reactjs" width="50px" src="/Assets/reactjs.png"/>|<img alt="tailwindcss" width="50px" src="/Assets/tailwindcss-icon.svg"/>
  |--|--|--|--|--|
  
  **Tools**
  
- <img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|<img alt="Notion" width="30px" src="/Assets/notion.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="Postman" width="30px" src="/Assets/postman.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="Figma" width="30px" src="/Assets/figma.png"/>
+ <img alt="VSCode" width="50px" src="/Assets/vscode.png"/>|<img alt="Notion" width="50px" src="/Assets/notion.png"/>|<img alt="Git" width="50px" src="/Assets/git.png"/>|<img alt="Postman" width="50px" src="/Assets/postman.png"/>|<img alt="Figma" width="50px" src="/Assets/figma.png"/>
  |--|--|--|--|--|
 
 
