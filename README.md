@@ -26,19 +26,22 @@
 
  **Languages**
  
- <img alt="JavaScript" width="50px" src="/Assets/javascript.png"/>|<img alt="Python" width="50px" src="/Assets/python.png"/>|<img alt="C++" width="50px" src="/Assets/c++.png"/>|<img alt="HTML" width="50px" src="/Assets/html.png"/>|<img alt="CSS" width="50px" src="/Assets/css-3.png"/>
- |--|--|--|--|--|
+ | <img alt="JavaScript" width="50px" src="/Assets/javascript.png"/> | <img alt="Python" width="50px" src="/Assets/python.png"/> | <img alt="C++" width="50px" src="/Assets/c++.png"/> | <img alt="HTML" width="50px" src="/Assets/html.png"/> | <img alt="CSS" width="50px" src="/Assets/css-3.png"/> |
+ | ----------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
  
  **Frameworks/Libraries**
  
- <img alt="nodejs" width="50px" src="/Assets/nodejs.png"/>|<img alt="nextjs" width="50px" src="/Assets/next.png"/>|<img alt="expressjs" width="50px" src="/Assets/Express.png"/>|<img alt="reactjs" width="50px" src="/Assets/reactjs.png"/>|<img alt="tailwindcss" width="50px" src="/Assets/tailwindcss-icon.svg"/>
- |--|--|--|--|--|
+ | <img alt="nodejs" width="50px" src="/Assets/nodejs.png"/> | <img alt="nextjs" width="50px" src="/Assets/next.png"/> | <img alt="expressjs" width="50px" src="/Assets/Express.png"/> | <img alt="reactjs" width="50px" src="/Assets/reactjs.png"/> | <img alt="tailwindcss" width="50px" src="/Assets/tailwindcss-icon.svg"/> |
+ | --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
  
  **Tools**
  
- <img alt="VSCode" width="50px" src="/Assets/vscode.png"/>|<img alt="Notion" width="50px" src="/Assets/notion.png"/>|<img alt="Git" width="50px" src="/Assets/git.png"/>|<img alt="Postman" width="50px" src="/Assets/postman.png"/>|<img alt="Figma" width="50px" src="/Assets/figma.png"/>
- |--|--|--|--|--|
+ | <img alt="VSCode" width="50px" src="/Assets/vscode.png"/> | <img alt="Notion" width="50px" src="/Assets/notion.png"/> | <img alt="Git" width="50px" src="/Assets/git.png"/> | <img alt="Postman" width="50px" src="/Assets/postman.png"/> | <img alt="Figma" width="50px" src="/Assets/figma.png"/> |
+ | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
 
-
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dru-429&theme=dark&show_icons=true&locale=en&layout=compact" alt="dru-429" /></span>
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dru-429&theme=dark" alt="dru-429" /></span>
+<table>'
+  <tr>
+		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dru-429&theme=dark&show_icons=true&locale=en&layout=compact" alt="dru-429" /></a></td>
+		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dru-429&theme=dark" alt="dru-429" /></a></td>
+  </tr>
+</table>
