@@ -5,7 +5,7 @@
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczgwY2pyNW14ZXpxZnJhYzMyM20yN3NpN2ltbjhsa3Nsc3YwMGUyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="230"  >
 </div>
 
-- 🌱 I’m currently learning **MongoDB, Next Js**
+- 🌱 I’m currently working on **Web Automation, Next Js**
 
 - 📫 Let's Collab **contact.dhruvsahoo@gmail.com**
 
