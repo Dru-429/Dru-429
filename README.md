@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<img alt="cover" src="/Assets/cover-cat.gif" style="width: 100% " /> 
-=======
-<img alt="cover" style="width: 100% " src="/Assets/cover-eyes.jpg"/> 
->>>>>>> 6e18c750e3c74f3a278ac8c4bf85bae552d7d7e5
 
+<img alt="cover" style="height:200px" src="/Assets/cover-eyes.jpg"/> 
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
 <h3>I'm <a href="https://rohandas28.github.io" target="_blank">Dru</a>, passionate frontend developer from India </h3>
 
