@@ -1,4 +1,4 @@
-<img alt="cover" src="/Assets/cover-cat.gif"/> 
+<img alt="cover" src="/Assets/cover-cat.gif" style="width: 100% " /> 
 
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
 <h3>I'm <a href="https://rohandas28.github.io" target="_blank">Dru</a>, passionate frontend developer from India </h3>
