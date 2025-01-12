@@ -1,4 +1,4 @@
-<img alt="cover" style="width: 100% " src="/Assets/cover-eyes.jpg"/> 
+<img alt="cover" style="width: 100% " src="/Assets/cover-gojo.png"/> 
 
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
 <h3>I'm <a href="https://rohandas28.github.io" target="_blank">Dru</a>, passionate frontend developer from India </h3>
