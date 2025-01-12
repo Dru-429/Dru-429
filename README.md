@@ -1,5 +1,7 @@
+<div align="center">	
+<img  alt="cover" style="height:200px" src="/Assets/cover-eyes.jpg"/> 
+</div>
 
-<img alt="cover" style="height:200px" src="/Assets/cover-eyes.jpg"/> 
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
 <h3>I'm <a href="https://rohandas28.github.io" target="_blank">Dru</a>, passionate frontend developer from India </h3>
 
