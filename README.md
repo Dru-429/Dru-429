@@ -43,7 +43,10 @@
  | <img alt="VSCode" width="50px" src="/Assets/vscode.png"/> | <img alt="Notion" width="50px" src="/Assets/notion.png"/> | <img alt="Git" width="50px" src="/Assets/git.png"/> | <img alt="Postman" width="50px" src="/Assets/postman.png"/> | <img alt="Figma" width="50px" src="/Assets/figma.png"/> |
  | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
 
-<table>'
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dru-429&label=Profile%20views&color=0e75b6&style=flat" alt="dru-429" /> </p>
+<table> 
   <tr>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dru-429&theme=dark&show_icons=true&locale=en&layout=compact" alt="dru-429" /></a></td>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dru-429&theme=dark" alt="dru-429" /></a></td>
