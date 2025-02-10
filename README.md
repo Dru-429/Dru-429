@@ -30,8 +30,8 @@
 
  **Languages**
  
- | <img alt="JavaScript" width="50px" src="/Assets/javascript.png"/> | <img alt="Python" width="50px" src="/Assets/python.png"/> | <img alt="C++" width="50px" src="/Assets/c++.png"/> | <img alt="HTML" width="50px" src="/Assets/html.png"/> | <img alt="CSS" width="50px" src="/Assets/css-3.png"/> |
- | ----------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+ | <img alt="JavaScript" width="50px" src="/Assets/javascript.png"/>| <img alt="TypeScript" width="50px" src="/Assets/typescript.png"/> | <img alt="Python" width="50px" src="/Assets/python.png"/> | <img alt="C++" width="50px" src="/Assets/c++.png"/> | <img alt="HTML" width="50px" src="/Assets/html.png"/> | <img alt="CSS" width="50px" src="/Assets/css-3.png"/> |
+ | ----------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |----------------------------------------------------- |
  
  **Frameworks/Libraries**
  
