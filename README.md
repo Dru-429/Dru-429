@@ -1,5 +1,5 @@
 <div align="center">	 
-<img  alt="cover" style="width:100%" src="/Assets/cover-eyes.jpg"/> 
+<img  alt="cover" style="width:100%" src="/Assets/cover-eye-gif.gif"/> 
 </div>
 
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
