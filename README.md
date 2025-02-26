@@ -14,6 +14,7 @@
  
 - 📫 Let's Collab **contact.dhruvsahoo@gmail.com**
 
+- 👨‍💻 Open For Freelance 
 
 ---
 
