@@ -48,7 +48,7 @@
 
 
 
-<table> 
+<table>  
   <tr>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dru-429&theme=dark&show_icons=true&locale=en&layout=compact" alt="dru-429" /></a></td>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dru-429&theme=dark" alt="dru-429" /></a></td>
