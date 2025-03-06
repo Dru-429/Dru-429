@@ -13,13 +13,7 @@
     style="display: none;"
   >
 </div>
-<style>
-  @media (min-width: 640px) {
-    img {
-      display: block;
-    }
-  }
-</style>
+
 
 - 🌱 I’m currently working on **Web Automation, Next Js 15 **  
  
