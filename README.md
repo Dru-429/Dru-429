@@ -15,7 +15,7 @@
 </div>
 
 
-- 🌱 I’m currently working on **Web Automation, Gen AI  **    
+- 🌱 I’m currently working on **Gen AI & Web Automation**    
  
 - 📫 Let's Collab **contact.dhruvsahoo@gmail.com**
 
