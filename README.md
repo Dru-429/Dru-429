@@ -61,4 +61,4 @@
 </table>
 
 
-<h3>See U "NEXT" Time 🍵 </h3>  
+<h3 align="right" >See U "NEXT" Time 🍵 </h3>  
