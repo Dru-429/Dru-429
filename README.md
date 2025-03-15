@@ -61,4 +61,4 @@
 </table>
 
 
-<h3>See U <img alt="nextjs" width="50px" src="/Assets/next.png"/> Time 💖 </h3>  
+<h3>See U Next Time 🍵 </h3>  
