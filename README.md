@@ -59,3 +59,6 @@
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dru-429&theme=dark" alt="dru-429" /></a></td>
   </tr>
 </table>
+
+
+<h3>See U <img alt="nextjs" width="50px" src="/Assets/next.png"/> Time 💖 </h3>  
