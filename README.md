@@ -12,7 +12,7 @@
     width="230" 
     style="display: none;"    
   >
-</div>
+</div> 
 
 
 - 🌱 I’m currently working on **Gen AI & Web Automation**    
