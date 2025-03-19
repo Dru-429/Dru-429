@@ -40,7 +40,7 @@
  
  | <img alt="VSCode" width="50px" src="/Assets/vscode.png"/> | <img alt="Notion" width="50px" src="/Assets/notion.png"/> | <img alt="Git" width="50px" src="/Assets/git.png"/> | <img alt="Postman" width="50px" src="/Assets/postman.png"/> | <img alt="Figma" width="50px" src="/Assets/figma.png"/> |
  | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
-
+  
 
 
 
