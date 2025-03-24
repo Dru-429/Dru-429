@@ -1,4 +1,4 @@
-<div align="center">	 
+ <div align="center">	 
 <img  alt="cover" style="width:100%" src="/Assets/cover-eye-gif2.gif"/> 
 	<p align="right"> <img src="https://komarev.com/ghpvc/?username=dru-429&label=Profile%20views&color=0e75b6&style=flat" alt="dru-429" /> </p>
 </div>
