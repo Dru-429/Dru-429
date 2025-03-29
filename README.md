@@ -33,9 +33,12 @@
  
  **Frameworks/Libraries**
  
- | <img alt="nextjs" width="50px" src="/Assets/next.png"/> | <img alt="reactjs" width="50px" src="/Assets/reactjs.png"/> | <img alt="nodejs" width="50px" src="/Assets/nodejs.png"/> | <img alt="expressjs" width="50px" src="/Assets/Express.png"/> | <img alt="tailwindcss" width="50px" src="/Assets/tailwindcss-icon.svg"/> |<img alt="Langchain" width="60px" src="/Assets/langchain.png"/> |<img alt="ShadCN UI" width="85px" src="/Assets/shadcnWb.png"/> | <img alt="ShadCN UI" width="85px" src="/Assets/shadcnWb.png"/> | 
- | --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |------------------------------------------------------------------------ |------------------------------------------------------------------------ |------------------------------------------------------------------------ |
- 
+ | <img alt="nextjs" width="50px" src="/Assets/next.png"/> | <img alt="reactjs" width="50px" src="/Assets/reactjs.png"/> | <img alt="nodejs" width="50px" src="/Assets/nodejs.png"/> | <img alt="expressjs" width="50px" src="/Assets/Express.png"/> | <img alt="tailwindcss" width="50px" src="/Assets/tailwindcss-icon.svg"/> |<img alt="Langchain" width="60px" src="/Assets/langchain.png"/> |
+ | --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |------------------------------------------------------------------------ |
+
+ |<img alt="ShadCN UI" width="85px" src="/Assets/shadcnWb.png"/> | <img alt="ShadCN UI" width="85px" src="/Assets/shadcnWb.png"/> | 
+ |------------------------------------------------------------------------ |------------------------------------------------------------------------ |
+
  **Tools** 
  
  | <img alt="VSCode" width="50px" src="/Assets/vscode.png"/> | <img alt="Notion" width="50px" src="/Assets/notion.png"/> | <img alt="Git" width="50px" src="/Assets/git.png"/> | <img alt="Postman" width="50px" src="/Assets/postman.png"/> | <img alt="Figma" width="50px" src="/Assets/figma.png"/> |
