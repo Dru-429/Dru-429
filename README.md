@@ -55,4 +55,4 @@
 </table>
 
 
-<h3 align="right" >See U "NEXT" Time 🍵 </h3>  
+<h3 align="right" >バイバイ, See U "NEXT" Time 🍵 </h3>  
