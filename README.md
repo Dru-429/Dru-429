@@ -24,7 +24,7 @@
 </p>
 
 
- ## My Super Powers  <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
+ ## My Super Powers 💪🦾
 
  **Languages**
  
