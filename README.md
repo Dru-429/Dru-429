@@ -4,7 +4,7 @@
 </div>
               
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
-<h3>I'm <a href="https://rohandas28.github.io" target="_blank">Dru</a>, passionate frontend developer from India </h3>    
+<h3>I'm <a href="https://github.com/Dru-429" target="_blank">Dru</a>, passionate frontend developer from India </h3>    
   
 - 🌱 I’m currently working on **Gen AI & Web Automation**       
       
@@ -57,3 +57,5 @@
 
 
 <h3 align="right" >バイバイ, See U "NEXT" Time 🍵 </h3>  
+
+
