@@ -60,5 +60,5 @@
 
 
 <a href="https://notbyai.fyi/" target="_blank" align="left">
-	<img alt="notByAI" src="/Assets/Written-By-Humans-Not-By-AI-Badge-black@2x.png"/>
+	<img alt="notByAI" src="/Assets/Written-By-Humans-Not-By-AI-Badge-black.png"/>
 </a>
