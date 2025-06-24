@@ -59,3 +59,6 @@
 <h3 align="right" >バイバイ, See U "NEXT" Time 🍵 </h3>  
 
 
+<a href="https://notbyai.fyi/" target="_blank" align="left">
+	<img alt="notByAI" src="/Assets/Written-By-Humans-Not-By-AI-Badge-black@2x.png"/>
+</a>
