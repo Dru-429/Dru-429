@@ -56,7 +56,7 @@
 </table>
 
 
-
+---
 
 <a href="https://notbyai.fyi/" target="_blank">
 	<img alt="notByAI"  src="/Assets/Written-By-Humans-Not-By-AI-Badge-black.png" align="left"/>
