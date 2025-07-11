@@ -54,8 +54,9 @@
 
 <table>  
   <tr>
-		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dru-429&theme=dark&show_icons=true&locale=en&layout=compact" alt="dru-429" /></a></td>
+		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dru-429&layout=compact&theme=tokyonight&hide_border=true" alt="dru-429" /></a></td>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dru-429&theme=transparent&hide_border=true" alt="dru-429" /></a></td>
+	  <td><a href="https://github.com/dru-429/"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dru-429?theme=tokyonight&hide_border=true" alt="dru-429" /></a></td>
   </tr>
 </table>
 
