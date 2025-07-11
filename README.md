@@ -57,8 +57,8 @@
   </tr>
    <tr>
 	         <td><a href="https://github.com/dru-429/"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dru-429?theme=tokyonight&hide_border=true" alt="dru-429" /></a></td>
-	  <td><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Dru-429&utm_content=farm">
-      <img src="https://render.gitanimals.org/farms/Dru-429" width="600" height="250"/></a></td>
+	  <td><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Dru-429&utm_content=line">
+      <img src="https://render.gitanimals.org/lines/Dru-429" width="500" height="200"/></a></td>
   </tr>
   
 </table>
