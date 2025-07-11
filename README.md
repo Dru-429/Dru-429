@@ -5,8 +5,6 @@
               
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
 
-  ![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/Dru-429?theme=tokyonight)
-
   <h3>I'm <a href="https://github.com/Dru-429" target="_blank">Dru</a>, passionate frontend developer from India </h3>
       
 - 🌱 I’m currently working on **Gen AI & Web Automation**          
@@ -54,10 +52,15 @@
 
 <table>  
   <tr>
-		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dru-429&layout=compact&theme=tokyonight&hide_border=true" alt="dru-429" /></a></td>
+		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dru-429&layout=compact&theme=transparent&hide_border=true" alt="dru-429" /></a></td>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dru-429&theme=transparent&hide_border=true" alt="dru-429" /></a></td>
-	  <td><a href="https://github.com/dru-429/"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dru-429?theme=tokyonight&hide_border=true" alt="dru-429" /></a></td>
   </tr>
+   <tr>
+	         <td><a href="https://github.com/dru-429/"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dru-429?theme=tokyonight&hide_border=true" alt="dru-429" /></a></td>
+	  <td><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Dru-429&utm_content=farm">
+      <img src="https://render.gitanimals.org/farms/Dru-429" width="600" height="250"/></a></td>
+  </tr>
+  
 </table>
 
 
