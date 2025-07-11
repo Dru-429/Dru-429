@@ -3,14 +3,18 @@
 	<p align="right"> <img src="https://komarev.com/ghpvc/?username=dru-429&label=Profile%20views&color=0e75b6&style=flat" alt="dru-429" /> </p>
 </div>
               
-<h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>
-<h3>I'm <a href="https://github.com/Dru-429" target="_blank">Dru</a>, passionate frontend developer from India </h3>    
-    
+<h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
+
+  ![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/Dru-429?theme=tokyonight)
+
+  <h3>I'm <a href="https://github.com/Dru-429" target="_blank">Dru</a>, passionate frontend developer from India </h3>
+      
 - 🌱 I’m currently working on **Gen AI & Web Automation**          
          
 - 📫 Let's Collab **contact.dhruvsahoo@gmail.com**    
             
 - 👨‍💻 Open For Freelance work (https://dhruvsahoo.vercel.app/)
+
 ---    
     
             
@@ -51,7 +55,7 @@
 <table>  
   <tr>
 		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dru-429&theme=dark&show_icons=true&locale=en&layout=compact" alt="dru-429" /></a></td>
-		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dru-429&theme=dark" alt="dru-429" /></a></td>
+		<td><a href="https://github.com/dru-429/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Dru-429&theme=transparent&hide_border=true" alt="dru-429" /></a></td>
   </tr>
 </table>
 
