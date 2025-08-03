@@ -11,7 +11,7 @@
          
 - 📫 Let's Collab **contact.dhruvsahoo@gmail.com**        
             
-- 👨‍💻 Open For Freelance work (https://dhruvsahoo.vercel.app/)
+- 👨‍💻 Open For Freelance work.  (https://dhruvsahoo.vercel.app/)
 
 ---    
        
