@@ -2,7 +2,7 @@
 <img  alt="cover" style="width:100%" src="/Assets/cover-eyes.jpg"/> 
 	<p align="right"> <img src="https://komarev.com/ghpvc/?username=dru-429&label=Profile%20views&color=0e75b6&style=flat" alt="dru-429" /> </p>
 </div>
-              
+               
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
 
   <h3>I'm <a href="https://github.com/Dru-429" target="_blank">Dru</a>, passionate frontend developer from India </h3>
