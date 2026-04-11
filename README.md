@@ -5,14 +5,38 @@
                
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
 
-  <h3>I'm <a href="https://github.com/Dru-429" target="_blank">Dru</a>, passionate frontend developer from India </h3>
-      
-- 🌱 I’m currently working on **Gen AI & Web Automation**          
-         
-- 📫 Let's Collab **contact.dhruvsahoo@gmail.com**        
-            
-- 👨‍💻 Open For Freelance work.  (https://dhruvsahoo.vercel.app/)
+```bash
+$ About Me
+> Dhruv Sahoo
+> Design Engineer 
+> Building soothing designs, i.e., clean, fun & functional.
 
+$ cat /bio.txt
+> 🔭 I'm more into building stuffs, and learning.
+> 🌱 I'm currently mastering GSAP Animations & WEB 3.0(Solana).
+> 🎯 My goal is to build products that we all need and want to exist.
+> 💡 Ask me about UI/UX, React, or my frontend.
+
+$ ls /tech-stack
+
+> frontend/
+  React.js           Next.js            TypeScript.ts      Tailwind.css     *framer-motion*
+  *GSAP*             HTML5.html         CSS3.css           JavaScript.js    
+
+> backend/
+  Node.js            Express.js         REST API           GraphQL           Redis
+  MongoDB            Firebase           SQL                 
+
+> design/
+  Figma.fig          Framer             Canva              Notion  		    	 	
+
+> tools/
+  Git.sh             VSCode.exe         Notion.md          n8n.json          etc...    
+
+
+$ ./show-stats.sh
+> Fetching data...
+```
 ---      
        
             
@@ -23,31 +47,6 @@
 <a href="https://instagram.com/_dru429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dru429" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/_dru429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dru429" height="30" width="40" /></a> -->
 </p>
-
-
-
-
- ## My Super Powers 💪🦾
-
- **Languages**
- 
- | <img alt="TypeScript" width="50px" src="/Assets/typescript.png"/> | <img alt="JavaScript" width="50px" src="/Assets/javascript.png"/>| <img alt="Python" width="50px" src="/Assets/python.png"/> | <img alt="C++" width="50px" src="/Assets/c++.png"/> | <img alt="HTML" width="50px" src="/Assets/html.png"/> | <img alt="CSS" width="50px" src="/Assets/css-3.png"/> | 
- | ----------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |----------------------------------------------------- |
- 
- **Frameworks/Libraries**
- 
- | <img alt="nextjs" width="50px" src="/Assets/next.png"/> | <img alt="reactjs" width="50px" src="/Assets/reactjs.png"/> | <img alt="nodejs" width="50px" src="/Assets/nodejs.png"/> | <img alt="expressjs" width="50px" src="/Assets/Express.png"/> | <img alt="tailwindcss" width="50px" src="/Assets/tailwindcss-icon.svg"/> |<img alt="Langchain" width="60px" src="/Assets/langchain.png"/> |
- | --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |------------------------------------------------------------------------ |
-
- |<img alt="ShadCN UI" width="85px" src="/Assets/shadcnWb.png"/> | <img alt="Framer-motion" width="50px" src="/Assets/Framer-Motion.webp"/> | <img alt="Daisy UI" width="50px" src="/Assets/daisyui.png"/> | 
- |------------------------------------------------------------------------ |------------------------------------------------------------------------ |------------------------------------------------------------------------ |
-
- **Tools** 
- 
- | <img alt="VSCode" width="50px" src="/Assets/vscode.png"/> | <img alt="Notion" width="50px" src="/Assets/notion.png"/> | <img alt="Git" width="50px" src="/Assets/git.png"/> | <img alt="Postman" width="50px" src="/Assets/postman.png"/> | <img alt="Figma" width="50px" src="/Assets/figma.png"/> |
- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
-  
-
    
 
 <table>  
