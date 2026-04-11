@@ -12,8 +12,8 @@ $ About Me
 > Building soothing designs, i.e., clean, fun & functional.
 
 $ cat /bio.txt
-> 🔭 I'm more into building stuffs, and learning.
-> 🌱 I'm currently mastering GSAP Animations & WEB 3.0(Solana).
+> 🔭 I am more into building stuffs, and learning.
+> 🌱 I am currently mastering GSAP Animations & WEB 3.0(Solana).
 > 🎯 My goal is to build products that we all need and want to exist.
 > 💡 Ask me about UI/UX, React, or my frontend.
 
@@ -34,20 +34,23 @@ $ ls /tech-stack
   Git.sh             VSCode.exe         Notion.md          n8n.json          etc...    
 
 
+$ ls /socials
+> 𝕏  X           [https://x.com/10xdhruv](https://x.com/10xdhruv)                # mostly active
+> 💼 LinkedIn    [https://linkedin.com/in/dhruvsahoo/](https://linkedin.com/in/dhruvsahoo/)   # rarely use
+> 📸 Instagram   [https://instagram.com/dhruvsahoo](https://instagram.com/dhruvsahoo)_     # not much
+
 $ ./show-stats.sh
 > Fetching data...
 ```
----      
-       
-            
-<h4 align="left">Connect with me:</h4>
-      
 <p align="left"> 
 <a href="https://linkedin.com/in/dhruvsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvsahoo" height="30" width="40" /></a>
 <a href="https://instagram.com/_dru429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dru429" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/_dru429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dru429" height="30" width="40" /></a> -->
-</p>
-   
+<a href="https://twitter.com/10xdhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dru429" height="30" width="40" /></a>
+</p> 
+
+---
+
+<h1 align="center"> Github Stats 💹 </a> </h1>    
 
 <table>  
   <tr>
@@ -67,5 +70,4 @@ $ ./show-stats.sh
 
 <a href="https://notbyai.fyi/" target="_blank">
 	<img alt="notByAI"  src="/Assets/Written-By-Humans-Not-By-AI-Badge-black.png" align="left"/>
-	<h3 align="right" >バイバイ, See U "NEXT" Time 🍵 </h3>  
 </a>
