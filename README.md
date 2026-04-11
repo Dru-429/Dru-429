@@ -35,9 +35,14 @@ $ ls /tech-stack
 
 
 $ ls /socials
-> 𝕏  X           [https://x.com/10xdhruv](https://x.com/10xdhruv)                # mostly active
-> 💼 LinkedIn    [https://linkedin.com/in/dhruvsahoo/](https://linkedin.com/in/dhruvsahoo/)   # rarely use
-> 📸 Instagram   [https://instagram.com/dhruvsahoo](https://instagram.com/dhruvsahoo)_     # not much
+> 𝕏  X
+[https://x.com/10xdhruv](https://x.com/10xdhruv)                # mostly active
+
+> 💼 LinkedIn
+[https://linkedin.com/in/dhruvsahoo/](https://linkedin.com/in/dhruvsahoo/)   # rarely use
+
+> 📸 Instagram
+[https://instagram.com/dhruvsahoo](https://instagram.com/dhruvsahoo)_     # not much
 
 $ ./show-stats.sh
 > Fetching data...
