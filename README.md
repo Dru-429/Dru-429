@@ -57,6 +57,20 @@ $ ./show-stats.sh
 
 ---
 
+<h1 align="center"> Recent Builds...🏗️ </a> </h1>    
+
+## 🚀 Recent Builds
+
+| Name | Tag line | Stack | Live | GitHub | Updated |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| **GitHub Wrapped** | Year-in-review visualizer for GitHub developers that scaled to 1,300+ users. | Next.js, React, Tailwind CSS | [Live App](#) | [Repository](#) | March 2026 |
+| **Terminal Invaders** | A retro arcade-inspired space shooter game played entirely inside the terminal. | Node.js, CLI, npm | [npm Package](#) | [Repository](#) | March 2026 |
+| **Zensol.pay** | Decentralized Solana payroll and SPL token distribution portal. | Solana, Anchor, Next.js, TypeScript | [Live App](#) | [Repository](#) | April 2026 |
+| **Paytm Clone** | Full-stack digital wallet and payment gateway replication for deep-dive learning. | MERN Stack (Node.js, Express, React, MongoDB) | [Live App](#) | [Repository](#) | Feb 2026 |
+| **Secko Auditor** | Web security auditing application powered by the ArmorIQ SDK for structural compliance. | React, Node.js, ArmorIQ SDK, Express | [Live App](#) | [Repository](#) | April 2026 |
+
+---
+
 <h1 align="center"> Github Stats 💹 </a> </h1>    
 
 <table>  
