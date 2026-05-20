@@ -61,12 +61,15 @@ $ ./show-stats.sh
 
 | Name | Tag line | Stack | Live | GitHub | Updated |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **GitHub Wrapped** | Year in code review like Spotify Wrapped, scaled to 633* users | Next.js, Ts, Pg, tailwind.css | [Live App](https://githubrapped.vercel.app/) | [Repository](https://github.com/Dru-429/github-wrapped) | May 2026 |
-| **Terminal Invaders** | A retro space shooter game played entirely inside the terminal. 450* Downloads | Node.js, npm | [npm Package](https://www.npmjs.com/package/terminal-invaders) | [Repository](https://github.com/Dru-429/terminal-invaders) | Mar 2026 |
-| **Paytm Clone** | WORKING.... | MERN | Working | [Repository](https://github.com/Dru-429/paytm_user) | May 2026 |
-| **Zensol.pay** | Decentralized Solana payment app with Private transactions. | MERN, Solana pay | [Live App](https://zensolpay.vercel.app/) | [Repository](https://github.com/Dru-429/Zensol-pay) | May 2026 |
-| **Secko Auditor** | Web security auditing application. | MERN, Shadcn, ArmorIQ SDK | --- | [Repository](https://github.com/Dru-429/secko-auditor) | Apr 2026 |
+| **GitHub Wrapped** | Year in code review like Spotify Wrapped, scaled to 633* users | Next.js, Ts, Pg, tailwind.css | [Live App](https://githubrapped.vercel.app/) | [Repo](https://github.com/Dru-429/github-wrapped) | May 2026 |
+| **Terminal Invaders** | A retro space shooter game played entirely inside the terminal. 450* Downloads | Node.js, npm | [npm](https://www.npmjs.com/package/terminal-invaders) | [Repo](https://github.com/Dru-429/terminal-invaders) | Mar 2026 |
+| **Paytm Clone** | WORKING.... | MERN | Working | [Repo](https://github.com/Dru-429/paytm_user) | May 2026 |
+| **Zensol.pay** | Decentralized Solana payment app with Private transactions. | MERN, Solana pay | [Live App](https://zensolpay.vercel.app/) | [Repo](https://github.com/Dru-429/Zensol-pay) | May 2026 |
+| **Secko Auditor** | Web security auditing application. | MERN, Shadcn, ArmorIQ SDK | --- | [Repo](https://github.com/Dru-429/secko-auditor) | Apr 2026 |
+
+
 ---
+
 
 <h1 align="center"> Github Stats 💹 </a> </h1>    
 
