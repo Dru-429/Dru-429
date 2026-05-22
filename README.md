@@ -25,7 +25,7 @@ $ ls /tech-stack
 
 > backend/
   Node.js            Express.js         REST API           GraphQL           Redis
-  MongoDB            Firebase           SQL                 
+  MongoDB            Firebase           SQL                    
 
 > design/
   Figma.fig          Framer             Canva              Notion  		    	 	
