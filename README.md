@@ -6,7 +6,7 @@
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
 
 ```bash
-$ About Me
+$ About Me  
 > Dhruv Sahoo
 > Design Engineer 
 > Building soothing designs, i.e., clean, fun & functional.
