@@ -33,7 +33,7 @@ $ ls /tech-stack
 > tools/
   Git.sh             VSCode.exe         Notion.md          n8n.json          etc...    
 
-
+ 
 $ ls /socials
 > 𝕏  X
 [https://x.com/10xdhruv](https://x.com/10xdhruv)                # mostly active
