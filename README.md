@@ -4,7 +4,7 @@
 </div>
                
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
-  <img width="2006" height="1632" alt="image" src="https://github.com/user-attachments/assets/74cf75d6-02ca-430e-9a1d-c97d15b9986f" />
+
 
 ```bash
 $ About Me  
