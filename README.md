@@ -3,7 +3,7 @@
 	<p align="right"> <img src="https://komarev.com/ghpvc/?username=dru-429&label=Profile%20views&color=0e75b6&style=flat" alt="dru-429" /> </p>
 </div>
                
-<h1 align="center">Hisashiburi...Watashi wa <a href="https://rohandas28.github.io" target="_blank">Dru 💫 </a> </h1>    
+<h1 align="center">Hisashiburi...Watashi wa <a href="https://www.dhruvsahoo.me/" target="_blank">Dhruv Sahoo </a> </h1>    
 
 
 ```bash
