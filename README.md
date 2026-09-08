@@ -4,6 +4,7 @@
 </div>
                
 <h1 align="center">Hisashiburi...Watashi wa <a href="https://www.dhruvsahoo.me/" target="_blank">Dhruv Sahoo </a> </h1>    
+<img width="2008" height="2402" alt="image" src="https://github.com/user-attachments/assets/c7e2af83-e4fd-4f4c-9d88-619b590d53d5" />
 
 
 ```bash
