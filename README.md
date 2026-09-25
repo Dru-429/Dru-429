@@ -15,7 +15,7 @@ $ About Me
 
 $ cat /bio.txt
 > 🔭 I am more into building stuffs, and learning.
-> 🌱 I am currently mastering GSAP Animations & learning GEN AI.
+> 🌱 I am currently mastering Application AI.
 > 🎯 My goal is to build products that we all need and want to exist.
 > 💡 Ask me about UI/UX, React, or my frontend.
 
